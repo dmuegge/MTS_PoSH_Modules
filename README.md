@@ -15,6 +15,6 @@ Disclaimer/License
 THE (MTS PowerShell Modules)
 ARE PROVIDED WITHOUT WARRANTY OF ANY KIND.
 
-This powershell module is licensed under the terms of
+The powershell modules are licensed under the terms of
 the MIT license. See license.txt in the root of the
 github project
