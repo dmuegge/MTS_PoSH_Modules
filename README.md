@@ -12,8 +12,8 @@ MTSAuthentication - PowerShell functions for authentication and credentials task
 Disclaimer/License
 -----------
 
-THE (MTSAuthentication PowerShell Module)
-IS PROVIDED WITHOUT WARRANTY OF ANY KIND.
+THE (MTS PowerShell Modules)
+ARE PROVIDED WITHOUT WARRANTY OF ANY KIND.
 
 This powershell module is licensed under the terms of
 the MIT license. See license.txt in the root of the
