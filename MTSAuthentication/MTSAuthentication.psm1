@@ -1,25 +1,17 @@
-<#
-## Module Name:     MTSAuthentication.psm1
+<# Module Name:     MTSAuthentication.psm1
+##
 ## Author:          David Muegge
-## Purpose:         
+## Purpose:         Provides PowerShell functions for various authentication operations
 ##																					
-## Requirements:    PowerShell Version 3
-## 					
-##					
-## History:
-##                  0.10 2013-03-01 - Initial Creation
-##                                  
 ##                                                                             
 ####################################################################################################
 ## Disclaimer
-## ****************************************************************
-## * THE (MTSAuthentication PowerShell Module)                           *
-## * IS PROVIDED WITHOUT WARRANTY OF ANY KIND.                    *
-## *                                                              *
-## * This toolkit is licensed under the terms of the MIT license. *
-## * See license.txt in the root of the github project            *
-## *                                                              *
-## **************************************************************** 
+##  ****************************************************************
+##  * DO NOT USE IN A PRODUCTION ENVIRONMENT UNTIL YOU HAVE TESTED *
+##  * THOROUGHLY IN A LAB ENVIRONMENT. USE AT YOUR OWN RISK.  IF   *
+##  * YOU DO NOT UNDERSTAND WHAT THIS SCRIPT DOES OR HOW IT WORKS, *
+##  * DO NOT USE IT OUTSIDE OF A SECURE, TEST SETTING.             *
+##  ****************************************************************
 ###################################################################################################>
 
 
